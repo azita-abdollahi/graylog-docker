@@ -1,0 +1,9 @@
+*_env
+mongodb-data/
+docker-compose.yml
+._env
+docker-compose.old.yml
+mongo-init.js
+es_data/
+graylog_data/
+graylog_journal/
