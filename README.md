@@ -10,7 +10,7 @@
 
 ​		This is a minimum `Graylog` setup that can be used for smaller, non-critical, or test-purpose setups. None of the    		components are redundant, and they are easy and quick to setup.
 
-![architec_small_setup](https://cdn.document360.io/49d29856-3708-4e61-a1fc-cf1f90558543/Images/Documentation/architec_small_setup.png)
+![](https://cdn.document360.io/49d29856-3708-4e61-a1fc-cf1f90558543/Images/Documentation/architec_small_setup.png)
 
 `docker-compose.yml`:
 
