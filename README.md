@@ -87,7 +87,7 @@ networks:
   driver: bridge
 ```
 
-
+**Note**: find out more [Graylog](docs/gralog-container-env.md) and [ElasticSearch](docs/graylog-elasticsearch-env.md) environment variables.
 
 `mongo-init.js`:
 
