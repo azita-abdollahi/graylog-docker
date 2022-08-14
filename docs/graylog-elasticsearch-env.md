@@ -74,7 +74,7 @@ Other ElasticSearch variables:
 ```yaml
 ulimits:
       memlock:
-      	#infinite memlock value
+        #infinite memlock value
         hard: -1
         soft: -1
 ```
