@@ -8,7 +8,7 @@
 
 ​	 **Minimun SETUP**
 
-​		This is a minimum `Graylog` setup that can be used for smaller, non-critical, or test-purpose setups. None of the    		components are redundant, and they are easy and quick to setup.
+​		This is a minimum `Graylog` setup that can be used for smaller, non-critical, or test-purpose setups. None of the components are redundant, and they are easy and quick to setup
 
 ![architec_small_setup](https://user-images.githubusercontent.com/108535307/183264301-d11fe1ea-4d17-4f35-be24-3bf04708ed9e.png)
 
